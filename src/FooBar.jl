@@ -1,5 +1,9 @@
 module FooBar
-
-# package code goes here
-
+function GoodCounter()
+  for i = 1:10
+        
+    @show(i)
+  end
+end
+export GoodCounter
 end # module
