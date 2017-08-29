@@ -4,6 +4,7 @@ function GoodCounter()
     @show(i)
   end
   println("Roy Rogers")
+  println("Dale Evans")
 end
 export GoodCounter
 end # module

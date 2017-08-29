@@ -6,8 +6,4 @@
 
 [![codecov.io](http://codecov.io/github/ArchieCall/FooBar.jl/coverage.svg?branch=master)](http://codecov.io/github/ArchieCall/FooBar.jl?branch=master)
 
-<<<<<<< HEAD
-balony and ham
-=======
 Heidy Heidy Ho
->>>>>>> a001624b847affc5b0198c2609b7d639e8a7a2e7
