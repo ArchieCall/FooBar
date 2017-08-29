@@ -6,4 +6,8 @@
 
 [![codecov.io](http://codecov.io/github/ArchieCall/FooBar.jl/coverage.svg?branch=master)](http://codecov.io/github/ArchieCall/FooBar.jl?branch=master)
 
+<<<<<<< HEAD
 Heidy Heidy Ho
+=======
+bacon and cheese
+>>>>>>> 0832885d7117e68ec747608ce0249b1ed62b89ab
